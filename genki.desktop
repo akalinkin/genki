@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 /path/to/app/app.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Genki
+Comment=Genki desktop application
+Name[ru_RU]=genki.desktop
