@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MyProject\n"
+"POT-Creation-Date: 2016-11-21 16:24+0300\n"
+"PO-Revision-Date: 2016-11-21 16:25+0300\n"
+"Last-Translator: Alexey Kalinkin <alexey@kalinkin.info>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: app_strings.py:6
+msgid "app.menu.about.text"
+msgstr "About"
+
+#: app_strings.py:7
+msgid "app.menu.author.text"
+msgstr "Author web site"
+
+#: app_strings.py:8
+msgid "app.menu.projects.text"
+msgstr "Projects"
+
+#: app_strings.py:9
+msgid "app.menu.projects.create.text"
+msgstr "Create"
+
+#: app_strings.py:10
+msgid "app.menu.quit.text"
+msgstr "Quit"
+
+#: app_strings.py:13
+msgid "app.buttons.ok.text"
+msgstr "OK"
+
+#: app_strings.py:14
+msgid "app.buttons.close.text"
+msgstr "Close"
+
+#: app_strings.py:17
+msgid "app.windows.about.title"
+msgstr "About"
+
+#: app_strings.py:18
+msgid "app.windows.about.text"
+msgstr "MyHelper is the personal helper software"
+
+#: app_strings.py:20
+msgid "app.windows.main_task_of_the_day.title"
+msgstr "Main task of the day"
+
+#: app_strings.py:21
+msgid "app.windows.main_task_of_the_day.description"
+msgstr "Please input the main task of current day and try to rich it today!"
