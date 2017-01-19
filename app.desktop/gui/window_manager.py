@@ -17,7 +17,7 @@ class WindowManager:
             print('Wrong gui_type parameter. Only [Gtk3,Qt5] allowed')
 
     def start(self, indicator_id, icon):
-        self.manager.Start(indicator_id, icon)
+        self.manager.start(indicator_id, icon)
 
     def AppMenu(self):
         return self.manager.AppMenu(self)
